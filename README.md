@@ -1,7 +1,6 @@
 # Praktik_IOT_P7
 Ip server 1.1.1.1
 subnet mask : 255.0.0.0
-----------------------
 username : cisco
 password : cisco
 
@@ -10,7 +9,7 @@ jika SBCO direction/aras ke kiri,maka mobil akan berjalan ke arah kiri.
 jika SBCO direction/aras ke kanan,maka mobil akan berjalan ke arah kanan.
 jika SBCO direction/aras ke atas,maka mobil akan berjalan ke arah atas.
 jika SBCO direction/aras ke bawah,maka mobil akan berjalan ke arah bawah.
-----------------------------------------------------------------
+
 1. Server login menggunakan  1.1.1.1.
 username : cisco
 kata sandi: cisco
