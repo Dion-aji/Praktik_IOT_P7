@@ -1,4 +1,8 @@
 # Praktik_IOT_P7
+Nama : Dion Aji cahyono
+Nim  : V3920018
+Kelas : Ti D
+-----------------------
 Ip server 1.1.1.1
 subnet mask : 255.0.0.0
 username : cisco
